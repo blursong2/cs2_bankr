@@ -30,13 +30,13 @@ class MainWindow(QMainWindow):
     if sys.platform == "win32":
       os.system("route add 146.66.152.0 mask 255.255.255.0 0.0.0.0 metric 1")
     elif sys.platform.startswith("linux"):
-      os.system("sudo route add -host 146.66.152.0 reject")
+      os.system("sudo ip route add unreachable 146.66.152.0/24")
 
   def unblock_server(self):
     if sys.platform == "win32":
       os.system("route delete 146.66.152.0")
     elif sys.platform.startswith("linux"):
-      os.system("sudo route del -host 146.66.152.0 reject")
+      os.system("sudo ip route del unreachable 146.66.152.0/24")
 
 
 if __name__ == "__main__":
