@@ -9,7 +9,7 @@
 
 스캘퍼 꽃마냥 여자만 보이면 원순행동하는 병신 장애인새끼들도 그만 보고싶습니까
 
-[https://file3.knowhow.or.kr/record/video/view/2055013?page=2](걱정 마십시오 우리집 있습니다)
+(https://file3.knowhow.or.kr/record/video/view/2055013?page=2)[걱정 마십시오 우리집 있습니다]
 
 이 툴은 여러분들의 그러한 걱정을 클릭 몇번으로 해결해줍니다
 
